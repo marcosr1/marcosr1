@@ -24,8 +24,8 @@ Em construção
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=marcosr1&theme=dark&border_radius=5&locale=pt_BR&card_width=550&card_height=170&hide_longest_streak=true" alt="GitHub Streak" /></a>
 </div>
----
 
+---
 
 ## 📫 Como me encontrar
 - 📧 Email: marcosrichelly43@gmail.com

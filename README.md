@@ -9,7 +9,7 @@ Sempre buscando aprender coisas novas
 
 ## Tecnologias & Ferramentas
   Linguagens:<br>
-<img src="assets/js.svg" width="45" height="45"> <img src="assets/python.svg" width="45" height="45"> <img src="assets/nodejs.svg" width="45" height="45">
+<img src="assets/js.svg" width="65" height="65" margin-right=5> <img src="assets/python.svg" width="65" height="65"> <img src="assets/nodejs.svg" width="65" height="65">
 
   JavaScript, Python, etc<br>
   Front-end: HTML, CSS, React

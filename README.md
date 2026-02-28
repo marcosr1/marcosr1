@@ -8,7 +8,9 @@ Sempre buscando aprender coisas novas
 ---
 
 ## Tecnologias & Ferramentas
-  Linguagens: JavaScript, Python, etc
+  Linguagens:<br>
+
+  JavaScript, Python, etc<br>
   Front-end: HTML, CSS, React
   Back-end: Node.js, Django
   Banco de Dados: MySQL, MongoDB, Postgres
@@ -19,7 +21,7 @@ Sempre buscando aprender coisas novas
 ##  Projetos em destaque
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/AndersonMamede/gear-animation-svg/main/gear.svg" 
+    src="assets/raven-svgrepo-com.svg" 
     width="120" 
     alt="Em construção"
   />

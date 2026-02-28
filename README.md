@@ -46,7 +46,6 @@ Sempre buscando aprender coisas novas
 ---
 
 ## 📫 Como me encontrar
-  <img src="assets/email.svg" width="25" height="25"> Email: marcosrichelly43@gmail.com
   <img src="assets/instagram.svg" width="25" height="25"> Instagram: @_chellynk 
  <img src="assets/portfolio.svg" width="25" height="25"> Portfólio: [https://www.marcosrichelly.dev/]
 

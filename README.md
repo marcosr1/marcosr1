@@ -8,7 +8,7 @@ Sempre buscando aprender coisas novas
 ---
 
 ## Tecnologias & Ferramentas
-  Linguagens:<br>
+  <h3>Linguagens</h3><br>
 <img src="assets/js.svg" width="100" height="100"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/python.svg" width="100" height="100"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/nodejs.svg" width="100" height="100"> 
 
   JavaScript, Python, etc<br>

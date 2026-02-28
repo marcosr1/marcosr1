@@ -21,11 +21,14 @@ Em construção
 ---
 
 ## 📊 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark)
+
+<div>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?      user=marcosr1&theme=dark&border_radius=5&locale=pt_BR&card_width=550&card_height=100&hide_longest_streak=true" alt="GitHub Streak" /></a>
+</div>
 
 ---
 
 ## 📫 Como me encontrar
 - 📧 Email: marcosrichelly43@gmail.com
 - 🌐 Portfólio: [https://seusite.com](https://www.marcosrichelly.dev/)
-- #F7DF1E
+

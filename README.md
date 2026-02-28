@@ -9,6 +9,7 @@ Sempre buscando aprender coisas novas
 
 ## Tecnologias & Ferramentas
   Linguagens:<br>
+<img src=js.svg> <img src=python.svg> <img src=nodejs.svg>
 
   JavaScript, Python, etc<br>
   Front-end: HTML, CSS, React

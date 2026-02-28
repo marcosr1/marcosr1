@@ -6,7 +6,7 @@ Sempre buscando aprender coisas novas
 
 ---
 
-## Tecnologias & Ferramentas
+<div align="center">## Tecnologias & Ferramentas</div>
 -  Linguagens: JavaScript, Python, etc
 -  Front-end: HTML, CSS, React
 -  Back-end: Node.js, Django

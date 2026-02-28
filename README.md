@@ -7,7 +7,7 @@ Sempre buscando aprender coisas novas
 
 ---
 
-## Tecnologias & Ferramentas
+### Tecnologias & Ferramentas
   ### Linguagens<br>
 <img src="assets/js.svg" width="100" height="100"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/python.svg" width="100" height="100"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/nextjs.svg" width="100" height="100"> 
 

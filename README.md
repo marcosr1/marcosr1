@@ -47,6 +47,6 @@ Sempre buscando aprender coisas novas
 
 ## 📫 Como me encontrar
   <img src="assets/instagram.svg" width="25" height="25"> Instagram: @_chellynk 
- <img src="assets/portfolio.svg" width="25" height="25"> Portfólio: [https://www.marcosrichelly.dev/]
+ <img src="assets/portfolio.svg" width="25" height="25"> Portfólio: https://www.marcosrichelly.dev/
 
 </div>

@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Olá, eu sou Marcos Richelly!
 
-<!--
-**marcosr1/marcosr1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Desenvolvedor(a) Backend mas as vezes me aventuro no Front  
+💻 Atualmente estudando/trabalhando com NodeJS  
+🚀 Sempre buscando aprender coisas novas
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias & Ferramentas
+- 💻 Linguagens: JavaScript, Python, etc
+- 🌐 Front-end: HTML, CSS, React
+- ⚙️ Back-end: Node.js, Django
+- 🛢️ Banco de Dados: MySQL, MongoDB, Postgres
+- 🧰 Ferramentas: Git, GitHub, VS Code
+
+---
+
+## 📌 Projetos em destaque
+Em construção
+
+---
+
+## 📊 Estatísticas do GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark)
+
+---
+
+## 📫 Como me encontrar
+- 📧 Email: marcosrichelly43@gmail.com
+- 🌐 Portfólio: [https://seusite.com](https://www.marcosrichelly.dev/)

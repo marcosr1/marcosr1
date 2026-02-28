@@ -8,11 +8,11 @@ Sempre buscando aprender coisas novas
 ---
 
 ## Tecnologias & Ferramentas
--  Linguagens: JavaScript, Python, etc
--  Front-end: HTML, CSS, React
--  Back-end: Node.js, Django
--  Banco de Dados: MySQL, MongoDB, Postgres
--  Ferramentas: Git, GitHub, VS Code
+  Linguagens: JavaScript, Python, etc
+  Front-end: HTML, CSS, React
+  Back-end: Node.js, Django
+  Banco de Dados: MySQL, MongoDB, Postgres
+  Ferramentas: Git, GitHub, VS Code
 
 ---
 
@@ -38,7 +38,7 @@ Sempre buscando aprender coisas novas
 ---
 
 ## 📫 Como me encontrar
-- 📧 Email: marcosrichelly43@gmail.com
-- 🌐 Portfólio: [https://seusite.com](https://www.marcosrichelly.dev/)
+ 📧 Email: marcosrichelly43@gmail.com
+ 🌐 Portfólio: [https://seusite.com](https://www.marcosrichelly.dev/)
 
 </div>

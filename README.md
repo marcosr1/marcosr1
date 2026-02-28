@@ -19,7 +19,7 @@ Sempre buscando aprender coisas novas
 ##  Projetos em destaque
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/AndersonMamede/gear-animation-svg/main/gear.svg" 
+    src="assets/raven-svgrepo-com.svg" 
     width="120" 
     alt="Em construção"
   />

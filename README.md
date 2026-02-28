@@ -7,14 +7,20 @@ Sempre buscando aprender coisas novas
 
 ---
 
-## Tecnologias & Ferramentas
-  Linguagens:<br>
+### Tecnologias & Ferramentas
+  ### Linguagens<br>
+<img src="assets/js.svg" width="100" height="100"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/python.svg" width="100" height="100"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/nextjs.svg" width="100" height="100"> 
 
-  JavaScript, Python, etc<br>
-  Front-end: HTML, CSS, React
-  Back-end: Node.js, Django
-  Banco de Dados: MySQL, MongoDB, Postgres
-  Ferramentas: Git, GitHub, VS Code
+  ### Front-end<br>
+  <img src="assets/html.svg" width="100" height="100"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/css.svg" width="100" height="100"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/react.svg" width="100" height="100"> 
+
+ ### Back-end
+ <img src="assets/nodejs.svg" width="100" height="100">
+  
+ ### Banco de Dados 
+ <img src="assets/mysql.svg" width="100" height="100"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/postgresql.svg" width="100" height="100">
+ ### Ferramentas: 
+ <img src="assets/git.svg" width="100" height="100"> 
 
 ---
 

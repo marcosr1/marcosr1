@@ -1,23 +1,32 @@
-# 👋 Olá, eu sou Marcos Richelly!
+# Olá, eu sou Marcos Richelly!
 
-🎯 Desenvolvedor(a) Backend mas as vezes me aventuro no Front  
-💻 Atualmente estudando/trabalhando com NodeJS  
-🚀 Sempre buscando aprender coisas novas
-
----
-
-## 🛠️ Tecnologias & Ferramentas
-- 💻 Linguagens: JavaScript, Python, etc
-- 🌐 Front-end: HTML, CSS, React
-- ⚙️ Back-end: Node.js, Django
-- 🛢️ Banco de Dados: MySQL, MongoDB, Postgres
-- 🧰 Ferramentas: Git, GitHub, VS Code
+Desenvolvedor(a) Backend mas as vezes me aventuro no Front  
+Atualmente estudando/trabalhando com NodeJS  
+Sempre buscando aprender coisas novas
 
 ---
 
-## 📌 Projetos em destaque
-Em construção
+## Tecnologias & Ferramentas
+-  Linguagens: JavaScript, Python, etc
+-  Front-end: HTML, CSS, React
+-  Back-end: Node.js, Django
+-  Banco de Dados: MySQL, MongoDB, Postgres
+-  Ferramentas: Git, GitHub, VS Code
 
+---
+
+##  Projetos em destaque
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/AndersonMamede/gear-animation-svg/main/gear.svg" 
+    width="120" 
+    alt="Em construção"
+  />
+</p>
+
+<p align="center">
+  ⚙️ Projeto em construção
+</p>
 ---
 
 ## 📊 Estatísticas do GitHub

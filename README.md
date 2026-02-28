@@ -28,3 +28,4 @@ Em construção
 ## 📫 Como me encontrar
 - 📧 Email: marcosrichelly43@gmail.com
 - 🌐 Portfólio: [https://seusite.com](https://www.marcosrichelly.dev/)
+- #F7DF1E

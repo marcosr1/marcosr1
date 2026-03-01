@@ -34,18 +34,18 @@ Sempre buscando aprender coisas novas
 </p>
 
 <p align="center">
-  ⚙️ Projeto em construção
+    Projeto em construção
 </p>
 ---
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
   <div align="center">
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=marcosr1&theme=dark&border_radius=5&locale=pt_BR&card_width=550&card_height=170&hide_longest_streak=true" alt="GitHub Streak" /></a>
   </div>
 
 ---
 
-## 📫 Como me encontrar
+## Como me encontrar
   <img src="assets/instagram.svg" width="25" height="25"> Instagram: @_chellynk 
  <img src="assets/portfolio.svg" width="25" height="25"> Portfólio: https://www.marcosrichelly.dev/
 

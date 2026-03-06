@@ -2,7 +2,7 @@
   <h1>Olá, eu sou Marcos Richelly!</h1>
 
 Desenvolvedor(a) Backend mas as vezes me aventuro no Front  
-Atualmente estudando/trabalhando com NodeJS  
+Atualmente estudando com NodeJS  
 Sempre buscando aprender coisas novas
 
 ---

@@ -1,7 +1,7 @@
 <div align="center"> 
   <h1>Oii, eu sou Marcos Richelly!</h1>
 
-Desenvolvedor(a) Backend
+Desenvolvedor(a) Backend<br>
 Atualmente estudando com NodeJS, C e Python
 
 ---

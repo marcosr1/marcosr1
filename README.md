@@ -2,7 +2,8 @@
   <h1>Oii, eu sou Marcos Richelly!</h1>
 
 Desenvolvedor(a) Backend<br>
-Atualmente estudando com NodeJS, C e Python
+Atualmente estudando com NodeJS, C e Python<br>
+Disponivel para estagio
 
 ---
 

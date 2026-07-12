@@ -33,9 +33,6 @@ Disponivel para estagio
   />
 </p>
 
-<p align="center">
-    Projeto em construção
-</p>
 ---
 
 ## Estatísticas do GitHub

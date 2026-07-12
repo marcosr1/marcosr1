@@ -8,28 +8,25 @@ Disponivel para estagio
 ---
 
 ### Tecnologias & Ferramentas
-  ### Linguagens<br>
-<img src="assets/js.svg" width="80" height="80"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/nextjs.svg" width="80" height="80"> 
-
-  ### Front-end<br>
-  <img src="assets/html.svg" width="80" height="80"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/css.svg" width="80" height="80"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/react.svg" width="80" height="80"> 
+ ### Front-end<br>
+ <img src="assets/html.svg" width="80" height="80"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/css.svg" width="80" height="80">
 
  ### Back-end
- <img src="assets/nodejs.svg" width="100" height="100">
+ <img src="assets/js.svg" width="80" height="80"> 
+
+ ### Frameworks
+ <img src="assets/nextjs.svg" width="80" height="80"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/react.svg" width="80" height="80"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/nodejs.svg" width="100" height="100">
   
  ### Banco de Dados 
  <img src="assets/mysql.svg" width="100" height="100"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/postgresql.svg" width="100" height="100">
- ### Ferramentas: 
+ 
+ ### Ferramentas
  <img src="assets/git.svg" width="100" height="100"> 
 
 ---
 
 <p align="center">
-  <img 
-    src="assets/raven-svgrepo-com.svg" 
-    width="120" 
-    alt="Em construção"
-  />
+  <img src="assets/raven-svgrepo-com.svg" width="120"/>
 </p>
 
 ---

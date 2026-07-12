@@ -24,7 +24,6 @@ Disponivel para estagio
 
 ---
 
-##  Projetos em destaque
 <p align="center">
   <img 
     src="assets/raven-svgrepo-com.svg" 

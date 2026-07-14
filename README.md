@@ -23,13 +23,13 @@ Disponivel para estagio
  ### Ferramentas
  <img src="assets/git.svg" width="100" height="100"> 
 
----
+
 
 <p align="center">
   <img src="assets/raven-svgrepo-com.svg" width="120"/>
 </p>
 
----
+
 
 ## Estatísticas do GitHub
   <div align="center">

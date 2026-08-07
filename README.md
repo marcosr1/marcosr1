@@ -1,5 +1,5 @@
 <div align="center"> 
-  <h1>Oii, eu sou Marcos Richelly!</h1>
+  <h1>Marcos Richelly</h1>
 
 Desenvolvedor Backend<br>
 Disponivel para estagio

@@ -9,7 +9,7 @@ Disponivel para estagio
   <img src="assets/raven-svgrepo-com.svg" width="120"/>
 </p>
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosr1&layout=compact&theme=dark)
+![Linguagens](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marcosr1&theme=dark)
 
 ## Estatísticas do GitHub
   <div align="center">

@@ -21,5 +21,5 @@
     <a href="https://www.marcosrichelly.dev/">Portfólio</a>
   </p>
 
-  <img src="./assets/catdancing.gif" alt="gato dancando" width="600">
+  <img src="./assets/catdancing.gif" alt="gato dancando" width="300">
 </div> 

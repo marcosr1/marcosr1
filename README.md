@@ -1,26 +1,25 @@
-<div align="center"> 
+<div align="center">
   <h1>Marcos Richelly</h1>
 
-Desenvolvedor Backend<br>
-Disponivel para estagio
+  <p>
+    Desenvolvedor Backend<br>
+    Disponível para estágio
+  </p>
 
+  <img src="./assets/raven-svgrepo-com.svg" width="120" alt="Corvo">
 
-<p align="center">
-  <img src="assets/raven-svgrepo-com.svg" width="120"/>
-</p>
+  <p>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marcosr1&theme=dark" alt="Linguagens">
+  </p>
 
-![Linguagens](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marcosr1&theme=dark)
+  <hr>
 
----
+  <h2>Como me encontrar</h2>
 
-## Como me encontrar
-<img src="assets/instagram.svg" width="25" height="25"> Instagram: @_chellynk 
-<img src="assets/portfolio.svg" width="25" height="25"> Portfólio: https://www.marcosrichelly.dev/
+  <p>
+    <a href="https://www.instagram.com/_chellynk/">Instagram</a> |
+    <a href="https://www.marcosrichelly.dev/">Portfólio</a>
+  </p>
 
-
-![Demonstração do projeto](assets/demo.gif)
-<p align="center">
-  <img src="assets/demo.gif" alt="Demonstração do projeto" width="600">
-</p>
-
-</div>
+  <img src="./assets/catdancing.gif" alt="gato dancando" width="600">
+</div> 
